@@ -1,0 +1,4 @@
+#gitgnore
+
+node_modules/
+.env/
